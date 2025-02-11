@@ -1,13 +1,13 @@
 {
   "main_url": "https://dev.profteam.su/",
   "none_existent_login": "test252test",
-  "login": "testStudents",
+  "login": "testStudentss",
   "none_existent_password": "...",
   "none_existent_password_confirm": "..",
-  "password": "Password11",
-  "password_confirm": "Password11",
+  "password": "Password1",
+  "password_confirm": "Password1",
   "none_existent_email": "@test@",
-  "email": "test1@mail.ru",
+  "email": "test12@mail.ru",
   "name": "Тест",
   "surname": "Тестеров",
   "patronym": "Тестерович"

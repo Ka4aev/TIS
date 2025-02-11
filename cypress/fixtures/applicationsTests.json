@@ -1,5 +1,8 @@
 {
   "main_url": "https://dev.profteam.su/",
   "login": "testerStudent",
-  "password": "Password1"
+  "password": "Password1",
+  "commercialOrganization": "ГИУР",
+  "organization_none_exist": "gdsfsdg",
+  "educationOrganization": "Визионер"
 }

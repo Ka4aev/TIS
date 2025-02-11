@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81338d7b-c17c-48cd-a230-fce9c5f2aca1" name="Changes" comment="" />
+    <list default="true" id="81338d7b-c17c-48cd-a230-fce9c5f2aca1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/profteam_profile_test.spec.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/fixtures/profileTests.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/habr_cypress_test.spec.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/profteam_application_test.spec.cy.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/e2e/profteam_application_test.spec.cy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/profteam_auth_test.spec.cy.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/e2e/profteam_auth_test.spec.cy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/profteam_register_test.spec.cy.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/e2e/profteam_register_test.spec.cy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/fixtures/applicationsTests.json" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/fixtures/applicationsTests.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/fixtures/cypressTests.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/fixtures/example.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/fixtures/registrationTests.json" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/fixtures/registrationTests.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,8 +58,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Cypress.all tests in profteam_register_test.spec.cy.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Станислав/myProjects/tis/cypress/e2e",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -108,6 +124,7 @@
       <workItem from="1739198228439" duration="51000" />
       <workItem from="1739205081377" duration="2895000" />
       <workItem from="1739255955612" duration="7889000" />
+      <workItem from="1739278386176" duration="5312000" />
     </task>
     <servers />
   </component>

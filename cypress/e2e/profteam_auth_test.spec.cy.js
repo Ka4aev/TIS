@@ -1,10 +1,4 @@
-Cypress.on('uncaught:exception', (err, runnable) => {
-    // Игнорируем ошибку "e is undefined", чтобы тест продолжился
-    return false;
-});
-
 describe('Authorizations Tests', () => {
-    // Селекторы
     const selectors = {
         mainPage: {
             loginButton: '#app > div.page > div > main > div > div.header-container__buttons > a:nth-child(1) > button',
@@ -52,9 +46,6 @@ describe('Authorizations Tests', () => {
 
         cy.log('Ввод не валидного пароля');
         cy.get(selectors.loginForm.passwordInput).type(' ');
-
-        cy.log('Клик по кнопке "Войти"');
-        cy.get(selectors.loginForm.submitButton).click();
 
         cy.log('Проверка что появился элемент сигнализирующий об ошибке');
         cy.contains('Обязательное поле, без пробелов').should('be.visible');

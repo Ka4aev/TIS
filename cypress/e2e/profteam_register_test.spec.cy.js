@@ -1,8 +1,3 @@
-Cypress.on('uncaught:exception', (err, runnable) => {
-    // Игнорируем ошибку "e is undefined", чтобы тест продолжился
-    return false;
-});
-
 describe('Registrations Tests', () => {
     const selectors = {
         mainPage: {
